@@ -15,5 +15,7 @@ public class AlphaCheck {
             }
         }
         return true;
+        //Time complexity:O(lengthOfString)
+        //Space complexity:O(1)
     }
 }
